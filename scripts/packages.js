@@ -38,20 +38,12 @@ module.exports = [
     desc: 'clash的图形代理软件',
   },
   {
-    name: 'luci-app-aria2',
-    desc: 'aria2下载工具',
-  },
-  {
     name: 'luci-app-zerotier',
     desc: 'ZeroTier内网穿透',
   },
   {
     name: 'luci-app-turboacc',
     desc: 'Turbo ACC 网络加速(支持 Fast Path 或者 硬件 NAT)',
-  },
-  {
-    name: 'luci-app-xlnetacc',
-    desc: '迅雷快鸟',
   },
 //   {
 //     name: 'luci-app-appfilter',
@@ -125,14 +117,6 @@ module.exports = [
 //     name: 'luci-app-wrtbwmon',
 //     desc: '实时流量监测',
 //   },
-  {
-    name: 'luci-app-serverchan',
-    desc: '微信/Telegram推送',
-  },
-  {
-    name: 'luci-app-transmission',
-    desc: 'BT下载工具',
-  },
 //   {
 //     name: 'luci-app-jd-dailybonus',
 //     desc: '京东签到服务',
